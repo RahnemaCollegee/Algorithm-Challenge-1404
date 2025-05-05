@@ -42,7 +42,7 @@ Output: 0
 ```
 Input: s = "aeiouxyz"
 
-Output: 6
+Output: 7
 ```
 
 توضیح: "eiouxyz" معتبر است چون تعداد صدادارها ۴ عدد است.
